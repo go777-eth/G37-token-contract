@@ -1,0 +1,14 @@
+{
+  "name": "G37-token-contract",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/go777-eth/G37-token-contract.git",
+  "author": "saqing <contact@saqing.net>",
+  "license": "MIT",
+  "devDependencies": {
+    "hardhat": "^2.6.8"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.3.3"
+  }
+}
